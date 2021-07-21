@@ -1,7 +1,7 @@
 const Locations = [
   {
     id: 1,
-    city: 'Kolkata',
+    city: 'Tashkent',
     dateTime: '07:50 PM — Wednesday, 26 May 2021',
     temparature: '27\u2103',
     weatherType: 'Night',
