@@ -37,8 +37,8 @@ export default function App() {
         showsHorizontalScrollIndicator={false}>
         {items}
       </ScrollView>
-      <Indicator Locations={Locations} scrollX={scrollX} />
       <Header />
+      <Indicator Locations={Locations} scrollX={scrollX} />
     </>
   );
 }
