@@ -1,4 +1,4 @@
 # WeatherUI
 
 ### Preview
-!(Preview)[git remote add origin https://github.com/Azizbek-Mamarasulov/WeatherUI.git]
+!(Preview)[https://github.com/Azizbek-Mamarasulov/WeatherUI/blob/master/preview/preview.gif?raw=true]
